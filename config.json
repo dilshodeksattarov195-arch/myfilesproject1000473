@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymenteecrypt",
+        "uuid": 2266616,
+        "checksum": "yh54t"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
